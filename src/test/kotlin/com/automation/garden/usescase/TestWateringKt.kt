@@ -7,13 +7,13 @@ internal class TestWateringKt {
 
 
     @Test
-    fun `runCucumber`() {
+    fun `test jenkins tests`() {
         // Given
         val a = true
         // When
 
         // Then
-        assertTrue(!a)
+        assertTrue(a)
 
     }
 
